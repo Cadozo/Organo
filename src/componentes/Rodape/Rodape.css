@@ -1,0 +1,13 @@
+.rodape-page {
+    display: flex;
+    background-color: #6278f7;
+    justify-content: space-around;
+    padding: 80px;
+    align-items: center;
+    color: white;
+}
+
+.rodape-page .plats img{
+    padding: 20px;
+}
+
